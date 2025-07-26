@@ -26,7 +26,8 @@
 
 - The IFNA function handle only #NA error in a table. 
 
-The followings are the variations of  IF function;
+  The followings are the variations of  IF function;
+
            * IF
            * IFS
            * IFERROR
